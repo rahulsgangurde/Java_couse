@@ -10,10 +10,10 @@ public class two_darray {
 			System.out.print(arr[i][j] + " ");	
 		}
 		System.out.println();	
-				
-				
+					
 			}
-			
+		
+		
 		}
 		
 }
