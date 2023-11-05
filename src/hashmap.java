@@ -26,6 +26,9 @@ public class hashmap {
 			
 			System.out.println("Key: "+key+" , value:"  +map.get(key));
 			
+		
+		}
+			
 			
 		}
 		
