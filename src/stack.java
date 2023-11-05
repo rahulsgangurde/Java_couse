@@ -10,13 +10,21 @@ public class stack {
 		stack.push("China");
 		stack.push("India");
 		
-		System.out.println(" Stack is:" +stack);
+		System.out.println(" org Stack is:" +stack);
 		
 		String removed = stack.pop();
 		
-		System.out.println("removed: " +removed);
+		System.out.println(" after removed: " +removed);
 		
 		System.out.println(" new  Stack is:" +stack);
+		
+		String removed1 = stack.peek();
+		
+		System.out.println(" after peek: " +removed1);
+		
+		System.out.println(" final  Stack is:" +stack);
+		
+		
 		
 		
 		
